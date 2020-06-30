@@ -6,4 +6,4 @@ Just apply the plugin and try to emote!
 
 Like this
 
-![](https://raw.githubusercontent.com/alvin0319/DoEmote/master/image/emote.PNG)
+![](https://raw.githubusercontent.com/alvin0319/DoEmote/master/image/1,png)
