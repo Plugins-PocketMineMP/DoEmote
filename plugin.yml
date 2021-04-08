@@ -3,5 +3,4 @@ author: alvin0319
 main: alvin0319\DoEmote\DoEmote
 version: 1.0.2
 api: 3.0.0
-
-mcpe-protocol: 422
+mcpe-protocol: 431
